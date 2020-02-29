@@ -19,11 +19,6 @@ import javax.swing.JMenuItem;
 import javax.swing.JOptionPane;
 import client.ui.ChatPage;
 
-
-/**
- *
- * @author Nikhil
- */
 public class AccessWindow extends javax.swing.JFrame {
 
     /**

@@ -1,10 +1,6 @@
 
 package commons;
 
-/**
- *
- * @author Nikhil
- */
 public interface ContentType {
     public static int ACCESSCODE = 0;
     public static int IMAGE = 1;

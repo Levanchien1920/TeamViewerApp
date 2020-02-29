@@ -11,14 +11,8 @@ import java.io.Serializable;
 import javax.imageio.ImageIO;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Nikhil
- */
 
-/**
- * This class is used for converting the object into byte array and byte array to object.
- */
+
 public class Content implements Serializable {
 
     /*----------------------------------Constructor----------------------------------*/

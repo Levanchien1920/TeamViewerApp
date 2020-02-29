@@ -10,16 +10,7 @@ import java.awt.datatransfer.Transferable;
 import java.awt.datatransfer.UnsupportedFlavorException;
 import java.io.IOException;
 
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 
-/**
- *
- * @author dell
- */
 public class ClipboardHandler implements ClipboardOwner{
     private Clipboard clipboard = null;
     private DataFlavor currDataFlavor = null;

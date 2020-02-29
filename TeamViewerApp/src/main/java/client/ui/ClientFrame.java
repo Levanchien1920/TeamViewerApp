@@ -6,10 +6,7 @@ package client.ui;
  * and open the template in the editor.
  */
 
-/**
- *
- * @author rp wadhwani
- */
+
 public class ClientFrame extends javax.swing.JFrame {
 
     /**

@@ -4,10 +4,6 @@ import commons.Content;
 import java.awt.Dimension;
 import java.awt.Toolkit;
 
-/**
- *
- * @author Nikhil
- */
 public class ReceiveContent {
 
     private Client client = null;

@@ -6,10 +6,6 @@ import commons.MouseDetails;
 import java.awt.Point;
 import java.awt.image.BufferedImage;
 
-/**
- *
- * @author Nikhil
- */
 public class SendContent {
 
     private AccessWindow aw;

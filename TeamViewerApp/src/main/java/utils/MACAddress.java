@@ -9,11 +9,6 @@ import java.net.InetAddress;
 import java.net.NetworkInterface;
 import java.net.SocketException;
 import java.net.UnknownHostException;
-
-/**
- *
- * @author Tarun
- */
 public class MACAddress {
 
         private static InetAddress localInetAddr = null;

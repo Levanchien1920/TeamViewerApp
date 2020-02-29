@@ -22,10 +22,7 @@ import javax.swing.WindowConstants;
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-/**
- *
- * @author rp wadhwani
- */
+
 public class MainPanel extends javax.swing.JPanel {
 
     /**

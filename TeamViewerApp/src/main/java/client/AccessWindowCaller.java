@@ -5,14 +5,9 @@ import commons.Content;
 import commons.ContentType;
 import java.awt.image.BufferedImage;
 
-/**
- *
- * @author Nikhil
- */
 
-/**
- * This class is used to calls the functions of AccessWindow class according to the content object. 
- */
+
+
 public class AccessWindowCaller {
 
     /*----------------------------------Constructor----------------------------------*/
